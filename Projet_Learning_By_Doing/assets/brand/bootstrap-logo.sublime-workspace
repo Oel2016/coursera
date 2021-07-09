@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"vi",
+				"visible-xs"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/exposant_pole.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/index.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/index.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/agrofourniture.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/nature.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/terroir.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reservation_journee.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reservation_p.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reservation_pole.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reservation_detail.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reserver2.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reserver3.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reserver4.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/exposant.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reservation.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/style.css",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/carousel.css",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/login.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/cover.css",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/assets/dist/css/bootstrap.min.css",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reserver1.html",
+		"/C/Users/lenovo/Desktop/Connexion/connexion.php",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/cover/reservation.js",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/verification.php",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/book.css",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/book.js",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/book.html",
+		"/C/Users/lenovo/Desktop/Prototype LBD/Salon-de-l’Agriculture-à-la-découverte-des-richesses-du-monde-agricole-1.jpg",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/participer_siam.html",
+		"/C/Users/lenovo/coursera/Creating account 1/index.html",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/carousel/image2.jpg",
+		"/C/Users/lenovo/coursera/bootstrap-5.0.0-examples/cover/index.html",
+		"/C/Users/lenovo/coursera/bootstrap-5.0.0-examples/carousel/index.html",
+		"/C/Users/lenovo/coursera/bootstrap-5.0.0-examples/cover/cover.css",
+		"/C/Users/lenovo/coursera/Projet_Learning_By_Doing/index.html",
+		"/C/Users/lenovo/Desktop/solid-signup-gh-pages/README.md",
+		"/C/Users/lenovo/coursera/mod5-solution-master/index.html",
+		"/C/Users/lenovo/fullstack-course4/examples/Lecture63/after/images/jumbotron_768.jpg",
+		"/C/Users/lenovo/fullstack-course4/examples/Lecture63/after/images/jumbotron_1200.jpg",
+		"/C/Users/lenovo/fullstack-course4/examples/Lecture63/before/index.html",
+		"/C/Users/lenovo/fullstack-course4/examples/Lecture63/after/images/ajax-loader.gif",
+		"/C/Users/lenovo/fullstack-course4/examples/Lecture63/after/index.html",
+		"/C/Users/lenovo/coursera/Restaurant/index.html",
+		"/C/Users/lenovo/coursera/Restaurant/javas/ajax-utils.js",
+		"/C/Users/lenovo/coursera/Restaurant/styles.css",
+		"/C/Users/lenovo/coursera/Restaurant/javas/jquery-2.1.4.min.js",
+		"/C/Users/lenovo/coursera/Restaurant/script.js",
+		"/C/Users/lenovo/coursera/module3-solution/styles.css",
+		"/C/Users/lenovo/coursera/module3-solution/ziko.html",
+		"/C/Users/lenovo/coursera/module3-solution/index.html",
+		"/C/Users/lenovo/coursera/module3-solution/style.css",
+		"/C/Users/lenovo/coursera/module3-solution/omar.html",
+		"/C/Users/lenovo/coursera/module3-solution/css/bootstrap.css",
+		"/C/Users/lenovo/coursera/module3-solution/css/bootstrap-grid.css",
+		"/C/Users/lenovo/coursera/module3-solution/css.html",
+		"/C/Users/lenovo/coursera/module3-solution/css/styles.css",
+		"/C/Users/lenovo/coursera/module4-solution/index2.html",
+		"/C/Users/lenovo/coursera/module4-solution/SpeakHello.js",
+		"/C/Users/lenovo/coursera/module4-solution/SpeakGoodBye.js",
+		"/C/Users/lenovo/coursera/module4-solution/script.js",
+		"/C/Users/lenovo/coursera/restaurant/omar/omar.html",
+		"/C/Users/lenovo/coursera/restaurant/omar/yanik.js",
+		"/C/Users/lenovo/coursera/javascript/script.js",
+		"/C/Users/lenovo/coursera/javascript/omar.html",
+		"/C/Users/lenovo/coursera/javascript/omar.js",
+		"/C/Users/lenovo/coursera/javascript course/java.js",
+		"/C/Users/lenovo/coursera/javascript course/omar.html",
+		"/C/Users/lenovo/coursera/module2-solution/index.html",
+		"/C/Users/lenovo/coursera/restaurant/restaurant.html",
+		"/C/Users/lenovo/coursera/module2-solution/css/index.css",
+		"/C/Users/lenovo/coursera/restaurant/javascript/java.js",
+		"/C/Users/lenovo/coursera/restaurant/js/script.js",
+		"/C/Users/lenovo/coursera/restaurant/css/styles.css",
+		"/C/Users/lenovo/coursera/restaurant/omar.png.JPG",
+		"/C/Users/lenovo/Desktop/module2-solution/index.html",
+		"/C/Users/lenovo/Desktop/coursera/omar.html",
+		"/C/Users/lenovo/Desktop/Coursera-Assignements/index.html",
+		"/C/Users/lenovo/Desktop/index.html",
+		"/C/Users/lenovo/Desktop/Project/project.html",
+		"/C/Users/lenovo/Desktop/Project/js/script.js",
+		"/C/Users/lenovo/Desktop/Project/css/styles.css",
+		"/C/Users/lenovo/Desktop/Project/css/bootstrap.rtl.min.css.map",
+		"/C/Users/lenovo/Desktop/seance 1",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 111.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bootstrap-logo.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
