@@ -19,12 +19,15 @@
 body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  background-color: #1b4a34;
 }
+
 
 .cover-container {
-  max-width: 42em;
+  background-color: #1b4a34;
+  max-width: 100em;
 }
-
+h3 {font-family: "Brush Script MT";font-size: 2,5em}
 
 /*
  * Header
@@ -51,3 +54,19 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+footer{font-family: "Brush Script MT";font-size: 1.5em;margin-top:10rem;}
+.R1{margin-bottom: 1rem; }
+
+a:hover {background-color:#1b4a34 ;}
+.px-3{margin-top: 8rem;}
+p.lead{margin-top: 3rem;}
+.yep{font-size: 2rem; margin-bottom: 1rem;}
+.po{position: relative;right:15px;}
+h2{margin-bottom: 2rem;}
+.code{margin-bottom: 5rem;}
+.codeup{margin-top: 2rem;margin-bottom: 2rem;}
+.codeupp{margin-bottom: 2rem;}
+.btn-lg{margin-bottom: 2rem;}
+.omar{text-align: left;}
+.title{margin-bottom: 2rem;}
+.cmgp{margin-top: 2rem;}
